@@ -1,6 +1,5 @@
-# Nathan's PBJ recipe
+# Juan's PBJ recipe
 1. bread
 2. peanut butter
-3. jelly
-4. bananas
+3. guava jelly
 5. bread
